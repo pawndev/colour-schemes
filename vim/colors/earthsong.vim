@@ -100,7 +100,7 @@ hi link htmlH6 htmlH5
 
 " Fold color
 hi clear SignColumn
-hi Folded ctermfg=95 ctermbg=58 cterm=NONE guifg=#7a7267 guibg=#36312c gui=NONE
+hi Folded ctermfg=95 ctermbg=58 cterm=NONE guifg=#af9c82 guibg=#4c453d gui=NONE
 
 " And finally.
 
