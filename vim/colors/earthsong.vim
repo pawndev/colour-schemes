@@ -98,6 +98,10 @@ hi link htmlH4 htmlH3
 hi link htmlH5 htmlH4
 hi link htmlH6 htmlH5
 
+" Fold color
+hi clear SignColumn
+hi Folded ctermfg=95 ctermbg=58 cterm=NONE guifg=#7a7267 guibg=#36312c gui=NONE
+
 " And finally.
 
 let g:colors_name = "Earthsong"
